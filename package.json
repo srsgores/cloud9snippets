@@ -1,0 +1,22 @@
+{
+  "name": "cloud9snippets",
+  "version": "1.0.0",
+  "description": "Common HTML5 snippets for cloud9 ide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srsgores/cloud9snippets.git"
+  },
+  "keywords": [
+    "cloud9"
+  ],
+  "author": "Sean Goresht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srsgores/cloud9snippets/issues"
+  },
+  "homepage": "https://github.com/srsgores/cloud9snippets#readme"
+}
